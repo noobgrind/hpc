@@ -20,8 +20,11 @@ int main()
 
 	}
 
+
 	cout << "Sum : " << sum <<  endl;
 	cout << "Min : " << min_v <<  endl;
 	cout << "Max : " << max_v <<  endl;
 	return 0;
 }
+//       !g++ filename.cpp -o filename
+//       !./filename
