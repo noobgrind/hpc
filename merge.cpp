@@ -98,3 +98,5 @@ int main() {
 
     return 0;
 }
+//       !g++ filename.cpp -o filename
+//       !./filename
