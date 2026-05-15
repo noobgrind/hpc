@@ -55,3 +55,6 @@ int main()
 		cout << i << " ";
 	return 0;
 }
+
+//       !g++ filename.cpp -o filename
+//       !./filename
